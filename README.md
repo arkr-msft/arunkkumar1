@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arunkkumar1
-- 👀 I’m interested in Data Scienses
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on spark / databricks
 - 📫 How to reach me ...
