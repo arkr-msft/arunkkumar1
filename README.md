@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arunkkumar1
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on spark / databricks
+- 👀 I’m working in Data Science
+- 🌱 I’m currently practicing Machine Learning
+- 💞️ I’m looking to collaborate on LLMs / MLOps / spark / Synapse
 - 📫 How to reach me ...
 
 <!---
